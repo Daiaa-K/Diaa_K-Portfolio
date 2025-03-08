@@ -22,5 +22,5 @@ This portfolio is hosted using **GitHub Pages**. It is a static site, meaning it
 4. The site is now accessible via: [Your Portfolio Link](https://your-username.github.io/your-repo/).
 
 ## Contact
-- Email: [your-email@example.com](mailto:diaa.kotb42@gmail.com)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218)
+- Email: [diaa.kotb42@gmail.com](mailto:diaa.kotb42@gmail.com)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218)
