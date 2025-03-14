@@ -29,6 +29,8 @@ body::before {
 }
 section {
   margin-bottom: 50px;
+  position: relative;
+  overflow: hidden
 }
 
 h1 {
@@ -224,6 +226,7 @@ h1::after {
   padding: 30px;
   border-radius: 15px;
   backdrop-filter: blur(10px);
+  overflow: hidden;
 }
 img {
   border: 3px solid #4CAF50;
