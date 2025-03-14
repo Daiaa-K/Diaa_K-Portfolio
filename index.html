@@ -365,10 +365,12 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
     <script>
       $(document).ready(function() {
-        $('.navbar-nav li a').on('click', function(){
-          $('.navbar-collapse').collapse('hide');
+        $('.navbar-nav a').on('click', function() {
+          if ($('.navbar-toggler').is(':visible') && $('.navbar-collapse').hasClass('show')) {
+            $('.navbar-toggler').trigger('click');
+          }
         });
       });
-  </script>
+</script>
   </body>
 </html>
