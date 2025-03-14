@@ -23,4 +23,4 @@ This portfolio is hosted using **GitHub Pages**. It is a static site, meaning it
 
 ## Contact
 - Email: [diaa.kotb42@gmail.com](mailto:diaa.kotb42@gmail.com)
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218)
