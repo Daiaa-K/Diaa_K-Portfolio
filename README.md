@@ -19,8 +19,8 @@ This portfolio is hosted using **GitHub Pages**. It is a static site, meaning it
 1. All website files (HTML, CSS, images) were uploaded to a GitHub repository.
 2. GitHub Pages was enabled via **Settings > Pages**.
 3. The `main` branch was selected as the source for deployment.
-4. The site is now accessible via: [My portfolio]([https://daiaa-k.github.io/Diaa_K-Portfolio/](https://daiaa-k.github.io/MyPortfolio/)).
+4. The site is now accessible via: [My portfolio](https://daiaa-k.github.io/MyPortfolio/).
 
 ## Contact
 - Email: [diaa.kotb42@gmail.com](mailto:diaa.kotb42@gmail.com)
-- LinkedIn: [My LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218)
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/diaa-kotb-7145b3218
