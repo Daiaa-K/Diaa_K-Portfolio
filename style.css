@@ -221,7 +221,11 @@ h1::after {
 img {
   border: 3px solid #4CAF50;
   box-shadow: 0 0 10px rgba(76, 175, 80, 0.3);
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
 }
+
 #imgg {
   width: 200px;
   height: 200px;
