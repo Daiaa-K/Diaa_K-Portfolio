@@ -203,6 +203,7 @@ h1::after {
 /* About Section */
 #about {
   padding: 50px 0;
+  margin: 30px;
   text-align: center;
 }
 #about h1{
